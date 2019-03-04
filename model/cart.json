@@ -1,0 +1,11 @@
+{
+    "userID" : 1,
+    "CartItem" :[{
+        "Quantity" : 1,
+        "productID" : 1, 
+        "productVariantID" : 1,
+        "UnitPrice" : 1299,
+        "TotalPrice" : 5200
+    }
+    ]
+  }

@@ -1,0 +1,1 @@
+sequelize-auto -o "./models" -d nextgen -h localhost -u root -p 3306 -x Ideaton@123 -e mysql
